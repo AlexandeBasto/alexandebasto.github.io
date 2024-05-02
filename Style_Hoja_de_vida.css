@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(/imagenes/texxturatec.jpg);
+    background-size: cover;
+    background-position:center ;
+    text-shadow: rgb(124, 49, 49);
+}
+
+.imagen {
+    width: 300px;
+    height: auto;
+}
+
+.imagen2 {
+    width: 100px;
+    height: auto;
+}
+
+.main {
+ color: whitesmoke;
+}
